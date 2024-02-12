@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Workspace2" Database="" Version="10000">
-  <Project Name="Project1" Path="Workspace2/Workspace2.project" Active="Yes"/>
+  <Project Name="Project1" Path="Project1/Project1.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
